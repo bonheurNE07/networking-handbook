@@ -1,4 +1,4 @@
-# 🧵 Networking Handbook – Professional Labs & Tutorials
+# Networking Handbook – Professional Labs & Tutorials
 
 A complete, implementation-focused networking handbook designed through real enterprise labs.
 
